@@ -1,4 +1,3 @@
-# jamboo.github.io
-Github Blogs
+# Posts
 
-[a link](https://github.com/jamboo/jamboo.github.io/blob/master/wiki.md)
+[2018-02-27 Draw Clustered Column Graph with Pandas](https://github.com/jamboo/jamboo.github.io/blob/master/2018.02.27.draw.clustered_column.md)
