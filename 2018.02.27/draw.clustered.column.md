@@ -15,7 +15,7 @@
 |z|2018|7|
 
 ## Goal graph to achieve using Pandas
-![target.PNG](.\target.PNG)
+![target.PNG](https://github.com/jamboo/jamboo.github.io/blob/master/2018.02.27/target.PNG)
 
 ## Step By Step!
 
@@ -46,7 +46,7 @@ df.plot.bar(x='year')
 ```
 
 
-![sample.jpeg](.\sample.jpeg)
+![sample.jpeg](https://github.com/jamboo/jamboo.github.io/blob/master/2018.02.27/sample.jpeg)
 
 
 ### Discussion: How to generate right clustered columns graph?
@@ -92,4 +92,4 @@ Step 4: Draw Clustered Column
 df_new.plot.bar(x=['year'], figsize=(15,9))
 ```
 
-![output.jpeg](D:\AnacondaProjects\adr_data_collection_2010_2017\output.jpeg)
+![output.jpeg](https://github.com/jamboo/jamboo.github.io/blob/master/2018.02.27/output.jpeg)
